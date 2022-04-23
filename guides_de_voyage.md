@@ -7,6 +7,7 @@ Tristan Needham, Visual complex analysis.
 ## Fourier Transform
 
 Brad Osgood, The Fourier Transform and its applications.
+Steven Smith, The Scientist and Engineer's guide to Digital Signal Processing.
 
 ## Differential Geometry
 
