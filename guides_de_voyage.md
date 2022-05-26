@@ -31,6 +31,8 @@ Daniel Fleisch, A Student's Guide to Waves.
 
 Cushman-Roisin & Beckers, Geophysical fluid dynamics.
 
+Gordon, Grace, Schwerdtfeger & Byron-Scott, Dynamic meteorology: A basic course.
+
 Dieter Etling, Theoretische Meteorologie.
 
 Stommel & Moore, An introduction to the Coriolis force.
