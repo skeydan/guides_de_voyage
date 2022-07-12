@@ -1,5 +1,7 @@
 ## Math & Physics (general)
 
+Jakob Schwichtenberg, Physics from symmetry.
+
 Roger Penrose, The road to reality.
 
 Tristan Needham, Visual complex analysis.
