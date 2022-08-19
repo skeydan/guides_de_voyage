@@ -24,6 +24,8 @@ Misner, Thorne & Wheeler, Gravitation.
 
 Daniel Fleisch, A Student's Guide to Vectors and Tensors.
 
+Nadir Jeevanjee, An Introduction to Tensors and Group Theory for Physicists.
+
 Pavel Grinfeld, Introduction to Tensor Analysis and the Calculus of Moving Surfaces.
 
 ## Waves
