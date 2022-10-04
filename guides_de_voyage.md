@@ -42,4 +42,6 @@ Gordon, Grace, Schwerdtfeger & Byron-Scott, Dynamic meteorology: A basic course.
 
 Dieter Etling, Theoretische Meteorologie.
 
+Michael Hantel, Einführung Theoretische Meteorologie.
+
 Stommel & Moore, An introduction to the Coriolis force.
