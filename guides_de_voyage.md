@@ -27,6 +27,7 @@ Tristan Needham, Visual differential geometry and forms.
 ## Algebraic Topology
 
 Bray, Butscher & Rubinstein-Salzedo, Algebraic Topology.
+Sasho Kalajdzievski, An Illustrated Introduction to Topology and Homotopy.
 
 ## Tensors
 
@@ -66,5 +67,3 @@ Solms, The Hidden Spring.
 Sterling, What is health?
 
 Feldman-Barrett, How emotions are made.
-
-
