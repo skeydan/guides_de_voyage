@@ -55,6 +55,8 @@ Dieter Etling, Theoretische Meteorologie.
 
 Michael Hantel, Einführung Theoretische Meteorologie.
 
+Warner, Numerical Weather and Climate Prediction.
+
 Stommel & Moore, An introduction to the Coriolis force.
 
 Gordon, Grace, Schwerdtfeger & Byron-Scott, Dynamic meteorology: A basic course.
