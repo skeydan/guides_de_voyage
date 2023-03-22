@@ -49,13 +49,17 @@ Daniel Fleisch, A Student's Guide to Waves.
 
 ## Atmosphere / meteorology
 
-Cushman-Roisin & Beckers, Geophysical fluid dynamics.
+Michael Hantel, Einführung Theoretische Meteorologie.
 
 Dieter Etling, Theoretische Meteorologie.
 
-Michael Hantel, Einführung Theoretische Meteorologie.
+Cushman-Roisin & Beckers, Geophysical fluid dynamics.
+
+Zdunkowski, Dynamics of the Atmosphere: A Course in Theoretical Meteorology.
 
 Warner, Numerical Weather and Climate Prediction.
+
+Andreas Bott, Synoptische Meteorologie: Methoden der Wetteranalyse und -prognose.
 
 Stommel & Moore, An introduction to the Coriolis force.
 
